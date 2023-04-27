@@ -1,3 +1,7 @@
 bazı kodlar.
 remotede kodlar ekli.
+
 bazı kodlar yazdım
+
+burada çakışma olacak.
+
